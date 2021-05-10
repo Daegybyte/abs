@@ -7,7 +7,7 @@ import random
 search = [
     "corgis", "corgi play", "corgi pirates", "corgi loaf", "corgi butt", "corgi sleeping",
     "puppies", "cute dogs", "cute cat", "kittens", "manatees", "baby animals", "baby goats",
-    "baby sloths", "baby turtles", "snakes in hats"
+    "baby sloths", "baby turtles", "snakes in hats", "floofy animals"
         ]
 
 website = ["google", "youtube"]
